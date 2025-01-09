@@ -40,12 +40,12 @@ Kelas Costumer dan Admin turunan dari kelas User.</p>
 ## Struktur Tabel Aplikasi
 <p>1. Tabel Users
 <br>
-user_id, name, email, password, role, created_at.
+role, name, password.
 <br>
 <br>
 2. Tabel menu_items
 <br>
-item_id, name, description, price, category, created_at.
+item_id, name, description, price, category.
 <br>
 <br>
 3. Tabel orders
